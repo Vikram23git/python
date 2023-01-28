@@ -1,4 +1,6 @@
-# python Question 1 solution
+#Solutions For python And React question Set
+
+Python Question 1 solution
 def lcsubstr(str1, str2):
     	ans = 0;
 
